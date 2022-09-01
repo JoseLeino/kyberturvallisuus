@@ -17,11 +17,34 @@ Tiedot ovat vain niihin oikeutettujen henkilöiden käytössä. -> käyttöoikeu
 Tiedot ovat paikkaansa pitäviä ja liittyvät toisiinsa oikealla tavalla.
 
 ## Käytettävyys
-Tiedot ovat tarvitsijan saatavilla järjellisessä ajassa. Tidot eivät pääse häviämään tai yhteydet tietovarastoihin eivät katkea liian pitkäksi ajaksi.
+Tiedot ovat tarvitsijan saatavilla järjellisessä ajassa. Tiedot eivät pääse häviämään tai yhteydet tietovarastoihin eivät katkea liian pitkäksi ajaksi.
 
 ## Pääsynvalvonta
 Ulkopuoliset henkilöt eivät pääse luvatta käyttämään laitteistoja tai tietoverkkoja.
 
 ## Kiistämättömyys
-Tiedetään kuka tietojärjestelmiä käyttää ja voidaan osoitta kuka teki muutoksia tietoihin tai katseli niitä. -> lokijärjestelmät ja sähköinen tunnistus eli autentikaatio (authentication)
+Tiedetään kuka tietojärjestelmiä käyttää ja voidaan osoittaa kuka teki muutoksia tietoihin tai katseli niitä -> lokijärjestelmät ja sähköinen tunnistus eli autentikaatio (authentication).
+
+# Riskienhallinta
+Tietoturvallisuuden ylläpito on osa riskienhallintaa. Siihen kuuluu riskien tunnistaminen (etsiminen, assesment), niiden vaikutusten arviointi (mitä vaikuttaa, jos vahinko tapahtuu, evaluation) sekä miten riskeihin reagoidaan (counter measures).
+
+## Riskikartoitus
+Mitä vahinkoja on tapahtunut ja mitä voisi tapahtua -> realisoituneet riskit ja potentiaaliset riskit sekä tulevaisuus eli uhkakuvat
+
+## Vaikutusten arviointi
+Mitä vahingon tapahtuminen aiheuttaa organisaatiolle. Luokitus apuna:
+
+* Hyväskyttävä riski -> ei vaikutusta toimintaan
+* Tavanomainen riski -> haittaa toimintaa, taloudellisia menetyksiä
+* Sietämätön riski -> toiminta keskeytyy tai päättyy kokonaan, suuria taloudellisia menetyksiä, kenties konkurssi
+
+Luokitus voi olla moniportainen tai yksinkertaistettu, kuten edellä.
+
+## Riskin realisoitumisen todennäköisyys
+Miten usein riski todennäköisesti realisoituu esim.
+
+* Aärimmäisen harvoin 0 pistettä
+* N. viiden vuoden sisällä 1 pistettä
+* Vuoden-parin välein 2 pistettä
+* Useammin 3 pistettä
 
