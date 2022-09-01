@@ -72,3 +72,4 @@ Tehtävänäsi on lähteä ryhmäsi kanssa miettimään riskejä:
 * "Mihin tietoturvallisuuden osa-alueeseen tai -alueisiin se vaikuttaisi?"
 
 Kartoituksen apuvälineenä käytetään miellekarttoja (mind map), jolloin tapahtumien (incident) väliset yhteydet saadaan näkyviin.
+![RiskiMindMap](https://user-images.githubusercontent.com/24242044/187908465-5e473343-b5f1-4b4f-bc5d-627b685e4dd3.png)
