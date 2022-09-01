@@ -49,3 +49,13 @@ Miten usein riski todennäköisesti realisoituu esim.
 * Useammin 4 pistettä
 
 ![Riskienevaluointitaulukko](https://user-images.githubusercontent.com/24242044/187872500-7091f8b2-996d-4195-a302-d80596b08bb1.png)
+
+Organisaation ylin johto määrittelee hyväksyttävän riskin rajat eli kuinka yleinen tai vaikutuksiltaan suuri riski voidaan hyväksyä.
+
+## Riskeihin varautuminen
+
+Riskeihin voi (ainakin ISO standardien mukaan) reagoida ainoastaan 3:lla tavalla
+
+* Hyväksytään riski, otetaan tietoisesti riski, koska vahinko on vaaraton tai äärimmäisen harvinainen
+* **Pienennetään riskiä**, tehdään varotoimenpiteitä, ettei vahinkoa sattuisi -> varaudutaan
+* Siirretään riski jonkun muun kannettavaksi -> ulkoistaminen tai vastuuvakuutukset
