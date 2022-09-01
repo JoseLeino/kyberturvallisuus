@@ -43,9 +43,9 @@ Luokitus voi olla moniportainen tai yksinkertaistettu, kuten edellä.
 ## Riskin realisoitumisen todennäköisyys
 Miten usein riski todennäköisesti realisoituu esim.
 
-* Aärimmäisen harvoin 0 pistettä
-* N. viiden vuoden sisällä 1 pistettä
-* Vuoden-parin välein 2 pistettä
-* Useammin 3 pistettä
+* Aärimmäisen harvoin 1 pistettä
+* N. viiden vuoden sisällä 2 pistettä
+* Vuoden-parin välein 3 pistettä
+* Useammin 4 pistettä
 
 ![Riskienevaluointitaulukko](https://user-images.githubusercontent.com/24242044/187872500-7091f8b2-996d-4195-a302-d80596b08bb1.png)
