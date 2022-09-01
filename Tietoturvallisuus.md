@@ -65,3 +65,10 @@ Riskeihin voi (ainakin ISO standardien mukaan) reagoida ainoastaan 3:lla tavalla
 Rasekolla on n. 400 yksittäistä työasemaa, joitakin omia palvelimia sekä pilveen sijoitettuja tietojärjestelmiä. RASEKO:n tietotekniset palvelut ylläpitävät kampusalueen verkkoja. Internet-yhteyksistä vastaa 3 vuoden välein kilpailutettava operaattori.
 
 ![RasekonTietojärjestelmät](https://user-images.githubusercontent.com/24242044/187894893-96e393a7-317a-46b0-b465-35eef771e86a.png)
+
+## Riskikartoitus
+Tehtävänäsi on lähteä ryhmäsi kanssa miettimään riskejä: 
+* "Mikä tapahtuma voisi vaarantaa tietoturvallisuuden?"
+* "Mihin tietoturvallisuuden osa-alueeseen tai -alueisiin se vaikuttaisi?"
+
+Kartoituksen apuvälineenä käytetään miellekarttoja (mind map), jolloin tapahtumien (incident) väliset yhteydet saadaan näkyviin.
