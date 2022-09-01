@@ -48,3 +48,4 @@ Miten usein riski todennäköisesti realisoituu esim.
 * Vuoden-parin välein 2 pistettä
 * Useammin 3 pistettä
 
+![Riskienevaluointitaulukko](https://user-images.githubusercontent.com/24242044/187872500-7091f8b2-996d-4195-a302-d80596b08bb1.png)
