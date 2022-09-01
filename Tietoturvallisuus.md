@@ -59,3 +59,7 @@ Riskeihin voi (ainakin ISO standardien mukaan) reagoida ainoastaan 3:lla tavalla
 * Hyväksytään riski, otetaan tietoisesti riski, koska vahinko on vaaraton tai äärimmäisen harvinainen
 * **Pienennetään riskiä**, tehdään varotoimenpiteitä, ettei vahinkoa sattuisi -> varaudutaan
 * Siirretään riski jonkun muun kannettavaksi -> ulkoistaminen tai vastuuvakuutukset
+
+# RASEKO:n tietojärjestelmät
+
+Rasekolla on n. 400 yksittäistä työasemaa, joitakin omia palvelimia sekä pilveen sijoitettuja tietojärjestelmiä. RASEKO:n tietotekniset palvelut ylläpitävät kampusalueen verkkoja. Internet-yhteyksistä vastaa 3 vuoden välein kilpailutettava operaattori.
